@@ -4,3 +4,5 @@ if(angka % 2 === 0){
 }else{
     alert(angka + ' adalah bilangan GANJIL');
 }
+
+alert('ini juga boleh');

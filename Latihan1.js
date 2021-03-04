@@ -5,4 +5,6 @@ if(angka % 2 === 0){
     alert(angka + ' adalah bilangan GANJIL');
 }
 
-alert('ini juga boleh');
+function ads(){
+    alert('Your Computer has a virus..')
+}
